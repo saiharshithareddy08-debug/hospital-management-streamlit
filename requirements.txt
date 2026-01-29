@@ -1,0 +1,6 @@
+streamlit
+sqlite3
+fpdf
+pandas
+smtplib
+email-validator
